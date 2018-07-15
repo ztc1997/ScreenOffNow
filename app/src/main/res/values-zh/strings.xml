@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">双击状态栏关屏</string>
+    <string name="description_accessibility">双击状态栏关屏需要辅助功能以侦测状态栏点击事件</string>
+    <string name="toast_root_access_failed">无法取得 Root 权限</string>
+</resources>

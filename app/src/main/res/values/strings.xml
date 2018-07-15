@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Double tap status bar screen off</string>
+    <string name="description_accessibility">Double tap status bar screen off requires accessibility to detect status bar tap events</string>
+    <string name="toast_root_access_failed">Couldn\'t get root access</string>
+</resources>
